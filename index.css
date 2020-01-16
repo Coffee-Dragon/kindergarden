@@ -34,3 +34,22 @@
     font-style: normal;
 }
 
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto', serif;
+}
+
+.menu {
+    background-color: #ffffff;
+}
+
+.banner {
+    background-image: url('img/banner.jpg');
+}
+
+.mission {
+    background-color: #FFE964;
+}
